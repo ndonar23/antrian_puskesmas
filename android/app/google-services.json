@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600626675391",
+    "project_id": "puskesmas-ec30f",
+    "storage_bucket": "puskesmas-ec30f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600626675391:android:22aa03109c67dac67b100a",
+        "android_client_info": {
+          "package_name": "com.example.antrian_puskesmas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83bYOzS_cQIRR9QULtQbS4dSABBYiJhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
