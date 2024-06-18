@@ -120,12 +120,17 @@ flutter pub get
     <tr>
         <th style="text-align:center">
             <a href="">
-                <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="500" width="600" />
+                <img src="https://github.com/ndonar23/antrian_puskesmas/blob/main/Gambar%20WhatsApp%202024-06-14%20pukul%2021.18.18_b252bbf3.jpg" height="500" width="600" />
             </a>
         </th>
         <th style="text-align:center">
             <a href="#">
-                <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" height="500" width="600" />
+                <img src="https://github.com/ndonar23/antrian_puskesmas/blob/main/Gambar%20WhatsApp%202024-06-14%20pukul%2021.18.41_58a32553.jpg" height="500" width="600" />
+            </a>
+        </th>
+       <th style="text-align:center">
+            <a href="#">
+                <img src="https://github.com/ndonar23/antrian_puskesmas/blob/main/Gambar%20WhatsApp%202024-06-14%20pukul%2021.18.41_b4f096bf.jpg" height="500" width="600" />
             </a>
         </th>
     </tr>
