@@ -1,7 +1,5 @@
 # antrian_puskesmas
 Sistem Antrian Puskesmas Digital Untuk memudahkan Pelayanan dalam Puskesmas
-
-# RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL
 <div align="center">
 
 </div>
