@@ -112,7 +112,7 @@ flutter pub get
 ## Admin Panel Or User
 - Go to lib/main.dart
 - For Admin Panel -> home: AdminLogin()
-- For User -> home: AuthGate()
+- For User -> home: Onboarding()
 
 ## Screenshot
 
