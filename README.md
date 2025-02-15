@@ -18,7 +18,7 @@ Sistem Antrian Puskesmas Digital Untuk memudahkan Pelayanan dalam Puskesmas
             </a>
         </th> -->
         <th style="text-align:center">
-            <a href="https://https://www.instagram.com/ndonar_23/">
+            <a href="https://www.instagram.com/ndonar_23/">
                 <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="40">
             </a>
         </th>
