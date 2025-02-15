@@ -149,9 +149,6 @@ flutter pub get
   > Copyright (C) [2024]
 
   > M. Andon Arifin
-  > Silviana Agustin
-  > Zainal Arifin
-  > Diah Fitriani
 
   Everyone is permitted to copy and distribute verbatim or modified
   copies of this license document.
